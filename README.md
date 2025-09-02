@@ -1,0 +1,1 @@
+# 2025-DevOps-PF1-ComD-GitConflictos-Grupo6
