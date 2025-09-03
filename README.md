@@ -4,7 +4,6 @@ _Grupo 6_
 _Comisión D_ 
 **Seminario de Actualización DevOps** 
 
----
 ### Integrantes
 
 - Josefina Cicchini
@@ -12,13 +11,10 @@ _Comisión D_
 - Francisco Agustín Cruz Guantay
 - Malena Guardia Vero
 
----
 
 **Año:** 2025
 **IFTS 29**
 
-
----
 
 ### Documentación de la llamada al backend
 
